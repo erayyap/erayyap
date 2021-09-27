@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erayyap
-- 🌱 I’m currently furthering a diploma in Computer Science at Bilkent University. I am currently a freshman. (27/09/21)
+- 🌱 I’m studying in Computer Science at Bilkent University. I am currently a freshman. (27/09/21)
 
 <!---
 erayyap/erayyap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
